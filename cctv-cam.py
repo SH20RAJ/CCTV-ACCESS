@@ -42,7 +42,7 @@ def banner():
         print('='*60)
         print(P)
         print(' ===============================================')
-        print('      @      code by: berd-mwolu X codex    @')
+        print('      @      @sh20raj                       @')
         print('      |                                     |')
         print('      @      lang: Python                   @')
         print('      |                                     |')
